@@ -11,6 +11,7 @@ Machine Learning
 4. LDA (Linear Component Analysis)
 
 Computer Vision
+
 1. Pyramids
 2. HOG (Histogram of Oriented Gradients)
 3. LBP (Local binary patterns)
