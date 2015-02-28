@@ -1,7 +1,7 @@
 # Matlab_ML_Examples
 Matlab Machine Learning/Computer Vision examples
 
-I will try to provide all the working implementations of the Machine Learning algorithms I have tried in the past.
+I will try to provide all the working implementations of the Machine Learning/ Computer Vision algorithms I have tried in the past.
 
 Machine Learning
 
